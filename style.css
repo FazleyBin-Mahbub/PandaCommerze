@@ -1,0 +1,28 @@
+.carousel-bg {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+.watch-bg {
+  background-color: #ffa500;
+  border-radius: 15px;
+}
+.bag-bg {
+  background-color: #da70d6;
+  border-radius: 15px;
+}
+.shoes-bg {
+  background-color: #0000ff;
+  border-radius: 15px;
+}
+
+.buy-now-btn,
+.submit-btn {
+  background-color: #ff3886;
+  border-radius: 10px;
+  border: none;
+}
+
+.submit-btn {
+  padding: 8px 20px;
+  color: #fff;
+}
